@@ -10,9 +10,4 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-/.idea/.gitignore
-/.idea/MiniSend.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/php.xml
-/.idea/vcs.xml
+/.idea
